@@ -1,0 +1,24 @@
+.profile-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.profile-avatar {
+  width: 120px;
+  height: 120px;
+  margin-bottom: 15px;
+}
+
+.profile-name {
+  font-size: 22px;
+  font-weight: bold;
+  color: #ff4500;
+}
+
+.profile-role {
+  font-size: 16px;
+  color: gray;
+  margin-bottom: 20px;
+}
